@@ -11,6 +11,5 @@ Projeto simples de carrinho de compras desenvolvido durante os estudos com a [Al
 ## 🧠 Tecnologias utilizadas
 
 - HTML  
-- CSS  
 - JavaScript (Vanilla JS)  
 - DOM API
